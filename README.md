@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrkushalsm
+- 👋 Hi, I’m Kushal SM
 - 👀 I’m interested in coding and contributing to the open source community!
 - 🌱 I’m currently learning Python, C++, C, Java and basics of Web Developing
 - 💞️ I’m looking to collaborate on any amount of code I can contribute to with my knowledge
