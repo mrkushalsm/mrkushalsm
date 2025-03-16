@@ -4,12 +4,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/mrkushalsm?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/mrkushalsm?style=social)  
 
-## 💻 Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Explorer  
+## 💻 Developer | 🚀 Tech Enthusiast | 🛌 Professional Sleeper   
 
-I’m passionate about building **sleek, interactive, and minimalistic web applications**. My focus is on **React**, **Tailwind CSS**, and crafting unique UI/UX experiences.  
+I'm passionate about building sleek, interactive, and minimalistic web applications. My expertise lies in React and Tailwind CSS, where I focus on crafting unique and intuitive user experiences. I'm continuously expanding my skill set into backend development, databases, and DevOps, with the goal of becoming a well-rounded full-stack developer. 
 
-🔍 **Currently Exploring:** Advanced animations with **Framer Motion**  
-📌 **Side Project:** Creating a **Windows-style Portfolio OS**  
+🔍 **Currently Exploring:** Backend development with **Python**, focusing on **APIs, databases, and server-side logic**.  
+📌 **Side Project:** Building an **application to track attendance efficiently**.  
 
 ---
 
@@ -24,7 +24,6 @@ I’m passionate about building **sleek, interactive, and minimalistic web appli
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
 ---
 
