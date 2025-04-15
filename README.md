@@ -41,10 +41,12 @@ I'm passionate about building sleek, interactive, and minimalistic web applicati
 
 🌟 **[Portfolio OS](https://github.com/mrkushalsm/Portfolio)** — A Windows-style portfolio built with React & Tailwind CSS.  
 📬 **[Weather App](https://github.com/mrkushalsm/Weather-App)** — A simple, clean UI weather app that provides current weather and a 5-day forecast.  
+📝 **[Attendance Tracker](https://github.com/mrkushalsm/Attendance-Tracker)** — A simple attendance tracker app to not lose count of your attendance and track on the go!  
 🔗 **More Projects:** Check my repos for more cool stuff!  
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrkushalsm&repo=Portfolio&theme=tokyonight)  
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrkushalsm&repo=Weather-App&theme=tokyonight)  
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrkushalsm&repo=Attendance-Tracker&theme=tokyonight)  
 
 ---
 
